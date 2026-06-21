@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment
+.env
+
+# Database
+*.db
+*.sqlite3
+
+# ChromaDB data
+chroma_db/
+
+# Uploads / temp
+data/uploads/
+*.tmp
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.DS_Store
